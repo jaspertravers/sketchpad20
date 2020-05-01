@@ -1,0 +1,11 @@
+#+TITLE:   Sketchpad 2020
+#+DATE:    May 1, 2020
+#+STARTUP: inlineimages nofold
+
+context.org
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+
+* Description
+Implementing Sketchpad
