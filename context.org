@@ -2,8 +2,10 @@
 #+AUTHOR: Jasper Travers
 
 * Ivan Sutherland Sketchpad
-https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf
-http://worrydream.com/refs/Sutherland-Sketchpad.pdf
+same paper, different quality
+
+- https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf
+- http://worrydream.com/refs/Sutherland-Sketchpad.pdf
 
 * Context
 - vpri
@@ -12,18 +14,19 @@ http://worrydream.com/refs/Sutherland-Sketchpad.pdf
 - sun labs
 
 Sketchpad:
-https://www.youtube.com/watch?v=p2LZLYcu_JY
-https://www.youtube.com/watch?v=kzDpfk8YhlE
+- https://www.youtube.com/watch?v=zFWBQKrvz24
+- https://www.youtube.com/watch?v=p2LZLYcu_JY
+- https://www.youtube.com/watch?v=kzDpfk8YhlE
 
-https://news.ycombinator.com/item?id=13938330
-https://news.ycombinator.com/item?id=13102757
-https://news.ycombinator.com/item?id=17354764
-https://news.ycombinator.com/item?id=13097121
-http://bitsavers.trailing-edge.com/pdf/mit/tx-2/
-https://www.youtube.com/watch?v=zFWBQKrvz24
-https://news.ycombinator.com/item?id=17891826
-http://worrydream.com/MagicInk/#p383
-https://news.ycombinator.com/item?id=8912137
+- https://news.ycombinator.com/item?id=13938330
+- https://news.ycombinator.com/item?id=13102757
+- https://news.ycombinator.com/item?id=17354764
+- https://news.ycombinator.com/item?id=13097121
+- http://bitsavers.trailing-edge.com/pdf/mit/tx-2/
+- https://news.ycombinator.com/item?id=17891826
+- http://worrydream.com/MagicInk/#p383
+- https://news.ycombinator.com/item?id=8912137
 
-http://www.cdglabs.org/sketchpad14/index.html
-http://www.cdglabs.org/sketchpad14/blog/
+- http://www.cdglabs.org/sketchpad14/index.html
+- http://www.cdglabs.org/sketchpad14/blog/
+
